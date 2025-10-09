@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #ffffff, #3b3a3b);
+    padding: 10px;
+}
+.todo {
+    width: 100%;
+    max-width: 540px;
+    background:#edeef0;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+.todo h2 {
+    color: rgb(56, 3, 84);
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+ul li {
+    list-style-type: none;
+}
+
+ul li span {
+    position: absolute;
+    right: 0;
+    top: 5;
+    width: 40px;
+    height: 40px;
+    font-size: 22px;
+    color: #b8abab;
+    line-height: 40px;
+    text-align: center;
+    
+    
+}
+
+ul li:hover{
+    background: #edeef0;
+
+}   
+
+ul li.checked {
+    color: #555;
+    text-decoration:line-through
+}
+
+
+
