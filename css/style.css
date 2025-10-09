@@ -25,6 +25,27 @@
     margin-bottom: 20px;
 
 }
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #edeef0;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+
+#addBtn {
+    border: none;
+    outline: none;
+    padding: 5px 15px;
+    background: rgb(5, 5, 5);
+    color: #ffffff;
+    border-radius: 20px;
+}
+#addBtn:hover {
+    background: rgb(54, 54, 54);
+}
 ul li {
     list-style-type: none;
 }
@@ -38,9 +59,7 @@ ul li span {
     font-size: 22px;
     color: #b8abab;
     line-height: 40px;
-    text-align: center;
-    
-    
+    text-align: center;    
 }
 
 ul li:hover{
@@ -49,8 +68,29 @@ ul li:hover{
 }   
 
 ul li.checked {
-    color: #555;
+    background: #3b3a3b;
+    color: #ffffff;
     text-decoration:line-through
+}
+li {
+    position: relative;
+    padding: 5px 2px 2px 14px;
+    font-size: 18px;
+    background:rgb(175, 175, 175);
+    color: rgb(54, 54, 54);
+}
+#clearBtn {
+    position: relative;
+    padding: 5px 20px;
+    margin-top: 10px;
+    border: none;
+    outline: none;
+    background: red;
+    color: #ffffff;
+    border-radius: 20px;
+}
+#clearBtn:hover {
+    background: darkred;
 }
 
 
