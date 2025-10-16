@@ -7,7 +7,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #ffffff, #3b3a3b);
+    background: rgb(228, 228, 228);
     padding: 10px;
 }
 .todo {
@@ -16,7 +16,6 @@
     background:#edeef0;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
-    border-radius: 10px;
 }
 .todo h2 {
     color: rgb(56, 3, 84);
@@ -85,13 +84,47 @@ li {
     margin-top: 10px;
     border: none;
     outline: none;
-    background: red;
+    background: rgb(252, 118, 118);
     color: #ffffff;
     border-radius: 20px;
 }
 #clearBtn:hover {
-    background: darkred;
+    background: rgb(190, 80, 80);
+}
+input {
+    width: 60%;
+    height: 35px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background: #ffffff;
+}
+input::placeholder {
+    color: #b8abab;
+    font-size: 13px;
+    padding: 20px;
 }
 
+/* Warning / error styles when input is empty */
+.input-error {
+    border: 2px solid #e74c3c; /* red border */
+}
 
-
+.warning-message {
+    color: #e74c3c;
+    font-size: 13px;
+    margin-top: 8px;
+}
+.close-btn {
+    background-color: #e74c3c;
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    color: white;
+    font-size: 18px;
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
