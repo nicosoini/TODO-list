@@ -7,19 +7,19 @@ Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://goog
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
-Miten työmäärä jaettiin? Kuka teki mitä? Miten yhteistyö sujui?
+Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Yhteistyö sujui erittäin hyvin ja saimme toteutettua TODO -listan ilman suurempia ongelmia. 
 
-## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi...
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+## Oma arvio työstä ja oman osaamisen kehittymisestä:
+Mielestäni onnistuin luomaan erittäin modernin ja simppelin TODO -listan, vaikka aluksi oli hieman vaikea saada koodi toimimaan oikein.
+Parantamista olisi scriptin parissa. Pienet asiat voivat pilata kaiken.
+Sovelluksesta jäi puuttumaan ominaisuus jakaa listaukset niin, että näkyy vain tehdyt ja jäljellä olevat tehtävät.
+Koen, että olen oppinut näkemään elementtien ja koodin välisen yhteyden ja pystyn sitä kautta tekemään eri buttoneilla erilaisia asioita.
+Epäselväksi jäi pienet toiminnallisuudet, kuten "remopve" -nappi, joka hävisi aluksi kokonaan.
+Antaisin itselleni pisteitä seuraavasti: 8/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
+Kurssi sekä lähiopetus ovat tuntuneet opettavaisilta. Tuntuu, että lähiopetuksessa focus asioihin on paljon parempi ja oppiminen on näin helpompaa
+Oppimistani tukisi jos workshoppien jälkeen julkaistaisiin tallenteet, jossa näkyy kuinka se oikeasti on tehty.
 
 
 ## Sisällysluettelo:
@@ -34,7 +34,7 @@ Oppimistani tukisi jos...
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+TODO -lista on sovellus, joka antaa käyttäjälle mahdollisuuden listata erilaisia tehtäviä päivälle, viikolle, kuukaudelle jne. Käyttäjä pystyy merkitsemään tehtävät tehdyksi sekä poistamaan tarvittaessa tehtävät, joita ei tarvitse. TODO -lista helpottaa arjessa, sekä sen helppokäyttöisyys antaa moitteettoman perusteen käyttää sovellusta.
 
 ## Tunnetut virheet/bugit
 Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
