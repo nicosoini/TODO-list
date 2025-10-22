@@ -124,7 +124,7 @@ input::placeholder {
   font-size: 13px;
   margin-top: 8px;
 }
-/* Poista -napin tyyli ja muotoilu, että se on toisessa päässä ja oikean kokoinen */
+/* X -napin tyyli ja muotoilu */
 .close-btn {
   background-color: #e74c3c;
   position: absolute;
