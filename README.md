@@ -54,16 +54,15 @@ Käytin seuraavia teknologioita: `html`, `css`, `Javascript`.
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
-- lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
+- lataa kaikki tiedostot ja avaa index.html selaimessasi
+- Seuraa README -tiedostossa olevaa linkkiä, joka vie suoraan Netlify sivustossa luotuun -sovellukseen
+
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
 - [GreatStack](https://youtu.be/G0jO8kUrg-I)  
 - [W3Schools](https://www.w3schools.com/howto/howto_js_todolist.asp)  
-- ChatGPT:tä käytettiin koodauksen aikana muutaman pulman edessä. Esimerkiksi remove -nappi ei toiminut oikein tai hävisi koodista kokonaan, joten jouduimme pyytämään AI:ta auttamaan.
+- ChatGPT:tä käytettiin koodauksen aikana muutaman pulman edessä. Esimerkiksi X -painikkeen muotoilissa ja lisäämisessä, koska aluksi koodi oli hieman rikkinäistä. Lisäksi ChatGPT käytettiin apuna LocalStoragen lisäämisessä.
 
 ## Lisenssi
 Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
