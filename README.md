@@ -25,7 +25,6 @@ Oppimistani tukisi jos workshoppien jälkeen julkaistaisiin tallenteet, jossa n�
 ## Sisällysluettelo:
 
 - [Tietoja sovelluksesta](#tietoja-sovelluksesta)
-- [Tunnetut virheet/bugit](#Tunnetut virheet/bugit)
 - [Kuvakaappaukset](#kuvakaappaukset)
 - [Teknologiat](#teknologiat)
 - [Asennus](#asennus)
@@ -36,9 +35,6 @@ Oppimistani tukisi jos workshoppien jälkeen julkaistaisiin tallenteet, jossa n�
 ## Tietoja sovelluksesta
 TODO -lista on sovellus, joka antaa käyttäjälle mahdollisuuden listata erilaisia tehtäviä päivälle, viikolle, kuukaudelle jne. Käyttäjä pystyy merkitsemään tehtävät tehdyksi sekä poistamaan tarvittaessa tehtävät, joita ei tarvitse. TODO -lista helpottaa arjessa, sekä sen helppokäyttöisyys antaa moitteettoman perusteen käyttää sovellusta.
 
-## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
-
 ## Kuvakaappaukset
 <img width="531" height="359" alt="image" src="https://github.com/user-attachments/assets/0ab1096e-f184-4932-be55-621f51d8ca49" />
 
@@ -47,7 +43,7 @@ Kuva: [Nico Soini](https://github.com/nicosoini)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, `Javascript`.
+Käytimme seuraavia teknologioita: `html`, `css`, `Javascript`.
 `html` käytettiin sovelluksen pohjana, johon loimme div-elementin, minkä sisällä TODO-lista toimii. HTML -koodista löytyy myös kaikki sovelluksen napit eli "buttonit". 
 `css` avulla loimme sovelluksen modernin ja mukavan ulkoasun, joka lisää käyttömukavuutta. CSS -koodi on suurin osa koodista, koska halusimme luoda sovelluksesta mahdollisimman modernin. 
 `Javascript` on sovelluksen helmi, josta löytyy kaikki toiminnallisuudet sovelluksen toimimiselle. Niin buttonien toiminnallisuus, kuin virheilmoituksen lähetys on luotu scriptiin. 
@@ -60,11 +56,10 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [GreatStack](https://youtu.be/G0jO8kUrg-I)  
+- GreatStack, 2023. How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript. https://youtu.be/G0jO8kUrg-I 
 - [W3Schools](https://www.w3schools.com/howto/howto_js_todolist.asp)  
 - ChatGPT:tä käytettiin koodauksen aikana muutaman pulman edessä. Esimerkiksi X -painikkeen muotoilissa ja lisäämisessä, koska aluksi koodi oli hieman rikkinäistä. Lisäksi ChatGPT käytettiin apuna LocalStoragen lisäämisessä.
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+Esimerkki: MIT-lisenssi @ [Nico Soini](https://github.com/nicosoini/TODO-list/blob/main/LICENSE)
