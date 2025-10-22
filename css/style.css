@@ -1,141 +1,139 @@
 /* Poistetaan oletus marginaalit ja paddingit elementeiltä, lisätään fontti */
 * {
-    margin: 0;
-    padding: 0;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    box-sizing: border-box;
-/* Sivun tausta */
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+  /* Sivun tausta */
 }
 .container {
-    width: 100%;
-    min-height: 100vh;
-    background: rgb(228, 228, 228);
-    padding: 10px;
+  width: 100%;
+  min-height: 100vh;
+  background: rgb(228, 228, 228);
+  padding: 10px;
 }
 /* TODO-listan laatikko, joka keskitetään sivulle, annetaan maksimileveys */
 .todo {
-    width: 100%;
-    max-width: 540px;
-    background:#edeef0;
-    margin: 100px auto 20px;
-    padding: 40px 30px 70px;
+  width: 100%;
+  max-width: 540px;
+  background: #edeef0;
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;
 }
 /* TODO-listan otsikon tyyli */
 .todo h2 {
-    color: rgb(56, 3, 84);
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-
+  color: rgb(56, 3, 84);
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
 }
 /* Rivi, jossa input ja napit ovat samassa rivissä */
 .row {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #edeef0;
-    border-radius: 20px;
-    padding-left: 20px;
-    margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #edeef0;
+  border-radius: 20px;
+  padding-left: 20px;
+  margin-bottom: 25px;
 }
 /* "Lisää" -napin tyyli */
 #addBtn {
-    border: none;
-    outline: none;
-    padding: 5px 15px;
-    background: rgb(5, 5, 5);
-    color: #ffffff;
-    border-radius: 20px;
+  border: none;
+  outline: none;
+  padding: 5px 15px;
+  background: rgb(5, 5, 5);
+  color: #ffffff;
+  border-radius: 20px;
 }
 /* "Lisää" -napin tyyli, kun hiiri viedään päälle */
 #addBtn:hover {
-    background: rgb(54, 54, 54);
+  background: rgb(54, 54, 54);
 }
 /* Poistetaan listamerkinnät */
 ul li {
-    list-style-type: none;
+  list-style-type: none;
 }
 /* X-painikkeen tyyli */
 ul li span {
-    position: absolute;
-    right: 0;
-    top: 5;
-    width: 40px;
-    height: 40px;
-    font-size: 22px;
-    color: #b8abab;
-    line-height: 40px;
-    text-align: center;    
+  position: absolute;
+  right: 0;
+  top: 5;
+  width: 40px;
+  height: 40px;
+  font-size: 22px;
+  color: #b8abab;
+  line-height: 40px;
+  text-align: center;
 }
 /* Kun hiiri viedään listauksen päälle */
-ul li:hover{
-    background: #edeef0;
-
-}   
+ul li:hover {
+  background: #edeef0;
+}
 /* "Tehtävä suoritettu", yliviivaus */
 ul li.checked {
-    background: #3b3a3b;
-    color: #ffffff;
-    text-decoration:line-through
+  background: #3b3a3b;
+  color: #ffffff;
+  text-decoration: line-through;
 }
 /* Listauksien tyyli */
 li {
-    position: relative;
-    padding: 5px 2px 2px 14px;
-    font-size: 18px;
-    background:rgb(175, 175, 175);
-    color: rgb(54, 54, 54);
+  position: relative;
+  padding: 5px 2px 2px 14px;
+  font-size: 18px;
+  background: rgb(175, 175, 175);
+  color: rgb(54, 54, 54);
 }
 /* "Clear" -napin tyyli */
 #clearBtn {
-    position: relative;
-    padding: 5px 20px;
-    margin-top: 10px;
-    border: none;
-    outline: none;
-    background: rgb(252, 118, 118);
-    color: #ffffff;
-    border-radius: 20px;
+  position: relative;
+  padding: 5px 20px;
+  margin-top: 10px;
+  border: none;
+  outline: none;
+  background: rgb(252, 118, 118);
+  color: #ffffff;
+  border-radius: 20px;
 }
 /* "Clear" -napin tyyli, kun hiiri viedään päälle */
 #clearBtn:hover {
-    background: rgb(190, 80, 80);
+  background: rgb(190, 80, 80);
 }
 /* Syöttökentän muotoilu */
 input {
-    width: 60%;
-    height: 35px;
-    border: none;
-    outline: none;
-    font-size: 16px;
-    background: #ffffff;
+  width: 60%;
+  height: 35px;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background: #ffffff;
 }
 /* "Add text" -muotoilu */
 input::placeholder {
-    color: #b8abab;
-    font-size: 13px;
-    padding: 20px;
+  color: #b8abab;
+  font-size: 13px;
+  padding: 20px;
 }
 /* Virheellinen kenttä korostus */
 .input-error {
-    border: 2px solid #e74c3c;
+  border: 2px solid #e74c3c;
 }
 /* Virheviestin korostus */
 .warning-message {
-    color: #e74c3c;
-    font-size: 13px;
-    margin-top: 8px;
+  color: #e74c3c;
+  font-size: 13px;
+  margin-top: 8px;
 }
 /* Poista -napin tyyli ja muotoilu, että se on toisessa päässä ja oikean kokoinen */
 .close-btn {
-    background-color: #e74c3c;
-    position: absolute;
-    right: 8px;
-    top: 50%;
-    transform: translateY(-50%);  /* Keskitetään pystysuunnassa */
-    border: none;
-    color: white;
-    font-size: 18px;
-    width: 24px;
-    height: 24px;
+  background-color: #e74c3c;
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%); /* Keskitetään pystysuunnassa */
+  border: none;
+  color: white;
+  font-size: 18px;
+  width: 24px;
+  height: 24px;
 }
