@@ -10,7 +10,7 @@ Linkki projektin videoesittelyyn [google.com](https://google.com)
 Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Yhteistyö sujui erittäin hyvin ja saimme toteutettua TODO -listan ilman suurempia ongelmia. 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä:
-Mielestäni onnistuimme luomaan erittäin modernin ja simppelin TODO -listan, vaikka aluksi oli hieman vaikea saada koodi toimimaan oikein.
+Mielestämme onnistuimme luomaan erittäin modernin ja simppelin TODO -listan, vaikka aluksi oli hieman vaikea saada koodi toimimaan oikein.
 Parantamista olisi scriptin parissa. Pienet asiat voivat pilata kaiken.
 Sovelluksesta jäi puuttumaan ominaisuus jakaa listaukset niin, että näkyy vain tehdyt ja jäljellä olevat tehtävät.
 Koemme, että olemme oppineet näkemään elementtien ja koodin välisen yhteyden ja pystyn sitä kautta tekemään eri buttoneilla erilaisia asioita.
@@ -47,7 +47,10 @@ Kuva: [Nico Soini](https://github.com/nicosoini)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, `Javascript`. HTML käytettiin sovelluksen pohjana, johon loimme div-elementin, minkä sisällä TODO-lista toimii. HTML -koodista löytyy myös kaikki sovelluksen napit eli "buttonit". CSS:n avulla loimme sovelluksen modernin ja mukavan ulkoasun, joka lisää käyttömukavuutta. CSS -koodi on suurin osa koodista, koska halusimme luoda sovelluksesta mahdollisimman modernin. Javascript on projektin helmi, josta löytyy kaikki toiminnallisuudet sovelluksen toimimiselle. Niin buttonien toiminnallisuus, kuin virheilmoituksen lähetys on luotu scriptiin. 
+Käytin seuraavia teknologioita: `html`, `css`, `Javascript`.
+`html` käytettiin sovelluksen pohjana, johon loimme div-elementin, minkä sisällä TODO-lista toimii. HTML -koodista löytyy myös kaikki sovelluksen napit eli "buttonit". 
+`css` avulla loimme sovelluksen modernin ja mukavan ulkoasun, joka lisää käyttömukavuutta. CSS -koodi on suurin osa koodista, koska halusimme luoda sovelluksesta mahdollisimman modernin. 
+`Javascript` on sovelluksen helmi, josta löytyy kaikki toiminnallisuudet sovelluksen toimimiselle. Niin buttonien toiminnallisuus, kuin virheilmoituksen lähetys on luotu scriptiin. 
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
