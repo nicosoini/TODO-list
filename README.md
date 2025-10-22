@@ -40,12 +40,10 @@ TODO -lista on sovellus, joka antaa käyttäjälle mahdollisuuden listata erilai
 Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
 <img width="531" height="359" alt="image" src="https://github.com/user-attachments/assets/0ab1096e-f184-4932-be55-621f51d8ca49" />
 
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+Kuva: [Nico Soini](https://github.com/nicosoini)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
@@ -62,6 +60,7 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
 - [GreatStack](https://youtu.be/G0jO8kUrg-I)  
 - [Beginners guide to BEM](link-goes-here.com)  
+- ChatGPT:tä käytettiin koodauksen aikana muutaman pulman edessä. Esimerkiksi remove -nappi ei toiminut oikein tai hävisi koodista kokonaan, joten jouduimme pyytämään AI:ta auttamaan.
 
 ## Lisenssi
 Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
