@@ -62,7 +62,7 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
 - [GreatStack](https://youtu.be/G0jO8kUrg-I)  
-- [Beginners guide to BEM](link-goes-here.com)  
+- [W3Schools](https://www.w3schools.com/howto/howto_js_todolist.asp)  
 - ChatGPT:tä käytettiin koodauksen aikana muutaman pulman edessä. Esimerkiksi remove -nappi ei toiminut oikein tai hävisi koodista kokonaan, joten jouduimme pyytämään AI:ta auttamaan.
 
 ## Lisenssi
