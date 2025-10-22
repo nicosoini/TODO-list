@@ -3,19 +3,19 @@ DOM-skriptaus projekti, TODO-list.
 Tekijät: Nico Soini, Simo Rönni
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [TODO-lista](https://dom-skriptaustodolist.netlify.app/)
 Linkki projektin videoesittelyyn [google.com](https://google.com)
 
 ## Työn jakautuminen 
 Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Yhteistyö sujui erittäin hyvin ja saimme toteutettua TODO -listan ilman suurempia ongelmia. 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä:
-Mielestäni onnistuin luomaan erittäin modernin ja simppelin TODO -listan, vaikka aluksi oli hieman vaikea saada koodi toimimaan oikein.
+Mielestäni onnistuimme luomaan erittäin modernin ja simppelin TODO -listan, vaikka aluksi oli hieman vaikea saada koodi toimimaan oikein.
 Parantamista olisi scriptin parissa. Pienet asiat voivat pilata kaiken.
 Sovelluksesta jäi puuttumaan ominaisuus jakaa listaukset niin, että näkyy vain tehdyt ja jäljellä olevat tehtävät.
-Koen, että olen oppinut näkemään elementtien ja koodin välisen yhteyden ja pystyn sitä kautta tekemään eri buttoneilla erilaisia asioita.
+Koemme, että olemme oppineet näkemään elementtien ja koodin välisen yhteyden ja pystyn sitä kautta tekemään eri buttoneilla erilaisia asioita.
 Epäselväksi jäi pienet toiminnallisuudet, kuten "remopve" -nappi, joka hävisi aluksi kokonaan.
-Antaisin itselleni pisteitä seuraavasti: 8/10 p
+Antaisimme itsellemme pisteitä seuraavasti: 8/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
 Kurssi sekä lähiopetus ovat tuntuneet opettavaisilta. Tuntuu, että lähiopetuksessa focus asioihin on paljon parempi ja oppiminen on näin helpompaa
@@ -42,12 +42,14 @@ Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikost
 ## Kuvakaappaukset
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
 `![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
+<img width="531" height="359" alt="image" src="https://github.com/user-attachments/assets/0ab1096e-f184-4932-be55-621f51d8ca49" />
+
 
 Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+Käytin seuraavia teknologioita: `html`, `css`, `Javascript`. HTML käytettiin sovelluksen pohjana, johon loimme div-elementin, minkä sisällä TODO-lista toimii. HTML -koodista löytyy myös kaikki sovelluksen napit eli "buttonit". CSS:n avulla loimme sovelluksen modernin ja mukavan ulkoasun, joka lisää käyttömukavuutta. CSS -koodi on suurin osa koodista, koska halusimme luoda sovelluksesta mahdollisimman modernin. Javascript on projektin helmi, josta löytyy kaikki toiminnallisuudet sovelluksen toimimiselle. Niin buttonien toiminnallisuus, kuin virheilmoituksen lähetys on luotu scriptiin. 
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
@@ -58,7 +60,7 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
+- [GreatStack](https://youtu.be/G0jO8kUrg-I)  
 - [Beginners guide to BEM](link-goes-here.com)  
 
 ## Lisenssi
