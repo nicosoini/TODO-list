@@ -55,9 +55,9 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- GreatStack, 2023. How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript. https://youtu.be/G0jO8kUrg-I 
-- [W3Schools](https://www.w3schools.com/howto/howto_js_todolist.asp)  
-- ChatGPT:tä käytettiin koodauksen aikana muutaman pulman edessä. Esimerkiksi X -painikkeen muotoilissa ja lisäämisessä, koska aluksi koodi oli hieman rikkinäistä. Lisäksi ChatGPT käytettiin apuna LocalStoragen lisäämisessä.
+- GreatStack. 2023. How To Create To-Do List App Using HTML CSS And JavaScript | Task App In JavaScript. https://youtu.be/G0jO8kUrg-I 
+- W3Schools. (n.d). How TO - Create a To Do List. W3Schools.com. https://www.w3schools.com/howto/howto_js_todolist.asp
+- ChatGPT:tä käytettiin koodauksen aikana muutaman pulman edessä. Listauksen poistopainikkeen toiminnallisuutta oli aluksi hankalaa saada toimimaan, mutta ChatGPT:n avulla saimme sen toimimaan oikein. Lisäksi LocalStoragen kanssa oli ongelmia, kun emme saaneet tallennettua tietoja oikein. Tarvitsimme hieman apua, että saimme sen toimimaan oikein.
 
 ## Lisenssi
 
