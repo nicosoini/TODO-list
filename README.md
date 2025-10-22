@@ -11,10 +11,10 @@ Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Yhteistyö suju
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä:
 Mielestämme onnistuimme luomaan erittäin modernin ja simppelin TODO -listan, vaikka aluksi oli hieman vaikea saada koodi toimimaan oikein.
-Parantamista olisi scriptin parissa. Pienet asiat voivat pilata kaiken.
+Parantamista olisi scriptin parissa. Pienet asiat voivat rikkoa toiminnallisuudet, joten tarkkuutta tarvitsee enemmän.
 Sovelluksesta jäi puuttumaan ominaisuus jakaa listaukset niin, että näkyy vain tehdyt ja jäljellä olevat tehtävät.
-Koemme, että olemme oppineet näkemään elementtien ja koodin välisen yhteyden ja pystyn sitä kautta tekemään eri buttoneilla erilaisia asioita.
-Epäselväksi jäi pienet toiminnallisuudet, kuten "remopve" -nappi, joka hävisi aluksi kokonaan.
+Koemme, että olemme oppineet näkemään elementtien ja koodin välisen yhteyden ja pystymme sitä kautta tekemään eri elmenteillä asioita scriptin avulla.
+Epäselvyyksiä aluksi oli poistonapin toiminnallisuus sekä LocalStorage, jotka saimme loppujen lopuksi toimimaan oikein.
 Antaisimme itsellemme pisteitä seuraavasti: 8/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
@@ -42,7 +42,6 @@ TODO -lista on sovellus, joka antaa käyttäjälle mahdollisuuden listata erilai
 Kuva: [Nico Soini](https://github.com/nicosoini)
 
 ## Teknologiat
-Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
 Käytimme seuraavia teknologioita: `html`, `css`, `Javascript`.
 `html` käytettiin sovelluksen pohjana, johon loimme div-elementin, minkä sisällä TODO-lista toimii. HTML -koodista löytyy myös kaikki sovelluksen napit eli "buttonit". 
 `css` avulla loimme sovelluksen modernin ja mukavan ulkoasun, joka lisää käyttömukavuutta. CSS -koodi on suurin osa koodista, koska halusimme luoda sovelluksesta mahdollisimman modernin. 
